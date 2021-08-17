@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Intent Test</string>
+    <string name="appName">Cool App</string>
+    <string name="username">Username</string>
+    <string name="key">Key</string>
+    <string name="login">Login</string>
+    <string name="name">Akash Roshan A</string>
+    <string name="regNo">2047207</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="mail">mail</string>
+    <string name="mail_us">Mail us</string>
+    <string name="phone">phone</string>
+    <string name="call_us">Call us</string>
+    <string name="map">map</string>
+    <string name="find_us">Come find us</string>
+    <string name="git">git</string>
+    <string name="github">Check out my GitHub</string>
+</resources>
